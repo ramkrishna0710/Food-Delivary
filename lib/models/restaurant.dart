@@ -71,7 +71,7 @@ class Restaurant extends ChangeNotifier {
     Food(
         name: "Monte carlo dessert jar",
         description: "Layers of rich chocolate cake, gooey caramel, decadent vanilla ice cream, and chocolate chips, all topped with crushed butterscotch cookies for an irresistible crunch",
-        imagePath: "lib/images/desserts/desserts_one.jpg",
+        imagePath: "lib/images/desserts/dessert_one.jpg",
         price: 329,
         category: FoodCategory.desserts,
         availableAddons: [
@@ -83,7 +83,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Pineapple Dessert Mini Jar Cake",
       description: "You'll drool over the wonderful pine apple jar cake that fills the cheerfully prepared cake.",
-      imagePath: "lib/images/desserts/desserts_two.jpg",
+      imagePath: "lib/images/desserts/dessert_two.jpg",
       price: 119,
       category: FoodCategory.desserts,
       availableAddons: [
@@ -95,7 +95,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Chutney Of The Day",
       description: "A Bengali Sweet Palate Cleanser",
-      imagePath: "lib/images/desserts/desserts_three.jpg",
+      imagePath: "lib/images/desserts/dessert_three.jpg",
       price: 90,
       category: FoodCategory.desserts,
       availableAddons: [
@@ -107,7 +107,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Gulab Jamun Vanilla Dessert Jar Cake",
       description: "Divine dessert creation crafted with layers of decadent vanilla sponge cake infused with rich flavors of traditional gulab jamun.",
-      imagePath: "lib/images/desserts/desserts_four.jpg",
+      imagePath: "lib/images/desserts/dessert_four.jpg",
       price: 189,
       category: FoodCategory.desserts,
       availableAddons: [
@@ -119,7 +119,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Chocolate Cupcake With Chocolate Frosting",
       description: "A decadent and moist chocolate cupcake with a rich and velvety chocolate frosting.",
-      imagePath: "lib/images/desserts/desserts_five.jpg",
+      imagePath: "lib/images/desserts/dessert_five.jpg",
       price: 299,
       category: FoodCategory.desserts,
       availableAddons: [
@@ -257,7 +257,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Condiments Box",
       description: "Complete your home dining experience with our mirchi achaar, pink vinegar onions, mint chutney & chur chur papad.",
-      imagePath: "lib/images/sides/sides_one.jpg",
+      imagePath: "lib/images/sides/side_one.jpg",
       price: 55,
       category: FoodCategory.sides,
       availableAddons: [
@@ -269,7 +269,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Chicken Chilli Gravy",
       description: "Gravy With Batter Coated Deep Fried Chicken Cubes Coated With An Assortment Of House Special Sauces.",
-      imagePath: "lib/images/sides/sides_two.jpg",
+      imagePath: "lib/images/sides/side_two.jpg",
       price: 155,
       category: FoodCategory.sides,
       availableAddons: [
@@ -281,7 +281,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Regular Fries",
       description: "Crispy, crunchy, thick, crinkle cut fries available in 5 unique desi flavours!.",
-      imagePath: "lib/images/sides/sides_three.jpg",
+      imagePath: "lib/images/sides/side_three.jpg",
       price: 89,
       category: FoodCategory.sides,
       availableAddons: [
@@ -293,7 +293,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "Seasoned Fries",
       description: "Our signature fries topped with Mexican seasoning. It's the king of fries.",
-      imagePath: "lib/images/sides/sides_four.jpg",
+      imagePath: "lib/images/sides/side_four.jpg",
       price: 125,
       category: FoodCategory.sides,
       availableAddons: [
@@ -305,7 +305,7 @@ class Restaurant extends ChangeNotifier {
     Food(
       name: "French Fries - Medium",
       description: " Medium size Fries.",
-      imagePath: "lib/images/sides/sides_five.jpg",
+      imagePath: "lib/images/sides/side_five.jpg",
       price: 99,
       category: FoodCategory.sides,
       availableAddons: [
